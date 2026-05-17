@@ -1,6 +1,0 @@
-import os
-
-BOT_TOKEN = "你的TG_TOKEN"
-OPENAI_API_KEY = "你的OPENAI_KEY"
-
-TARGET_STOCKS = ["AAPL", "TSLA", "NVDA"]
