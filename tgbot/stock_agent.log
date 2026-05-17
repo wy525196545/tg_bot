@@ -1,0 +1,9 @@
+2026-05-17 12:06:54 - StockAIAgent - INFO - 日志模块测试消息
+2026-05-17 12:06:55 - StockAIAgent - INFO - 获取股票信息: AAPL
+2026-05-17 12:07:11 - StockAIAgent - ERROR - 获取股票 AAPL 信息失败: Too Many Requests. Rate limited. Try after a while.
+2026-05-17 12:07:16 - StockAIAgent - INFO - 日志模块测试消息
+2026-05-17 12:07:16 - StockAIAgent - INFO - 获取股票信息: AAPL
+2026-05-17 12:07:29 - StockAIAgent - ERROR - 获取股票 AAPL 信息失败: Too Many Requests. Rate limited. Try after a while.
+2026-05-17 12:07:56 - StockAIAgent - INFO - 调度器初始化完成，时区: Asia/Shanghai
+2026-05-17 12:07:56 - StockAIAgent - INFO - StockAgent 初始化完成
+2026-05-17 12:10:22 - StockAIAgent - INFO - StockAgent 初始化完成
